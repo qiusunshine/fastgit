@@ -1,0 +1,2 @@
+include ':app', ':ColorDialogThis'
+project(':ColorDialogThis').projectDir = new File('ColorDialog')
